@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkygabs&label=Profile%20views&color=0e75b6&style=flat" alt="rizkygabs" /> </p>
 
-- 🔭 I’m currently working on **Bangkit Academy**
+- 🔭 I’m currently working on **Stechoq Robotics**
 
 - 🌱 I’m currently learning **Cloud Computing**
 
